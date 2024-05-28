@@ -26,7 +26,7 @@ Fleet tracking and logistics optimization involve monitoring and managing the mo
 - **_Dispatch Systems_**: Data on delivery tasks, pick-up locations, and drop-off points can be integrated for a holistic view.
 - **_Historical Trip Data_**: Past delivery times, traffic patterns, and driver behavior data can be used for route optimization algorithms.
 
-### Data Model
+### Conceptual Data Model
 ![FMS.svg](FMS.svg)
 
 ### Tech Stack
